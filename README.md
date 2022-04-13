@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @migcenel
+- 👋 Hi, I’m Migcenel
 - 👀 I’m interested in videogames, books, anime, coding, product development, crypto
 - 🌱 I’m currently learning typescript and azure 
 - 💞️ I’m looking to collaborate on new and fun projects
